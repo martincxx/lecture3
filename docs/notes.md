@@ -40,3 +40,9 @@ A new hello directory is created in our lecture3 directory
 Go to our project's `settings.py` and add hello to the INSTALLED_APPS list.
 
 Now, we can proceed with [views](views.md)
+
+## Run your project
+
+```
+python3 manage.py runserver
+```
