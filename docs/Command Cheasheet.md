@@ -44,6 +44,8 @@ python manage.py migrate
 
 ```
 
+**Note** After adding sessions it is necessary to run migrate once again
+
 ## create requirements.txt
 
 `pip freeze > requirements.txt`
